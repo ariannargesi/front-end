@@ -10,12 +10,15 @@
   "dependencies": {
     "@hapi/iron": "^6.0.0",
     "@magic-sdk/admin": "^1.2.2",
+    "baseui": "^9.102.0",
     "cookie": "^0.4.1",
     "magic-sdk": "^2.1.0",
     "next": "9.4.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-hook-form": "^6.0.0",
+    "styletron-engine-atomic": "^1.4.6",
+    "styletron-react": "^5.2.7",
     "swr": "^0.2.3"
   }
 }
